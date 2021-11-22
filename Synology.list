@@ -1,4 +1,6 @@
-quickconnect.cn
-synology.cn
-quickconnect.to
-synology.com
+## > 🕸️synology
+
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synology.com
